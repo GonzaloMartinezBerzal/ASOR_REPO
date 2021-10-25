@@ -1,0 +1,2 @@
+wantonfrito@DESKTOP-T74V3K4:~$ uname -a
+Linux DESKTOP-T74V3K4 4.19.128-microsoft-standard #1 SMP Tue Jun 23 12:58:10 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
